@@ -42,9 +42,11 @@ GPA : 3.46
 
 c, java, python, R 기반 언어사용 경험(python 관련 경험 다수)
 
-Datascience(python, jupyter notebook)
+Datascience(python, jupyter notebook 기반 PCA, TSNE, Regression, Correlation, Clustering, Feature Engineering)
 
 pytorch기반 MachineLearning 기술(CNN, GCGAN, Masked R-CNN 구현 및 적용)
+
+NLP(Word2Vec, tf-idf, LDA)
 
 Instagram posting들에 대한 자체 Web crawler 구현 및 WEB API 사용 경험
 
@@ -52,7 +54,7 @@ MongoDB, mysql DB 사용경험 (학과 프로젝트, 연구실 IoT testbed)
 
 Javascript를 활용한 front-end 개발경험(학과 프로젝트, 연구실 IoT testbed)
 
-Django 기반 back-end 개발 (학과 프로젝트, 연구실 IoT testbed)
+Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 ## 경력
 
