@@ -4,6 +4,9 @@ date: 2019-09-11 15:11:00 -0400
 categories: CV
 ---
 
+1. 학과 Crowdsourcing 프로젝트 EVENTENCE
+<a href="http://kinamsalad.pythonanywhere.com/" target="_blank">KCC_2018_Bukchon_corr_physical_social.pdf</a>
+
 1. 한국정보과학회 학부생논문 지도(우수상)
 <a href="../../pdf_folder/2018KCC.pdf" target="_blank">KCC_2018_Bukchon_corr_physical_social.pdf</a>
 2. 한국정보과학외 학부생논문 지도(최우수상)
