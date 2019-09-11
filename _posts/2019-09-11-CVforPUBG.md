@@ -40,7 +40,7 @@ GPA : 3.46
 
 ## 기술
 
-c, java, python, R 기반 언어사용 경험(python 관련 경험 다수)
+C, Java, Python, R 기반 언어사용 경험(python 관련 경험 다수)
 
 Datascience(python, jupyter notebook 기반 PCA, TSNE, Regression, Correlation, Clustering, Feature Engineering)
 
