@@ -8,7 +8,7 @@ categories: CV
 
 이름 : 박기남
 
-전화번호 : 01077045824
+전화번호 : 010-7704-5824
 
 Email : parkinam321@gmail.com, parkinam321@kaist.ac.kr
 
