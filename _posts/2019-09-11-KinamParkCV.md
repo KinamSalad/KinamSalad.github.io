@@ -22,4 +22,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 
-<a href="KinamSalad.github.io/pdf_folder_/ICDM.pdf" target="_blank">PDF.</a>
+<a href="KinamSalad.github.io/pdf_folder/ICDM.pdf" target="_blank">PDF.</a>
