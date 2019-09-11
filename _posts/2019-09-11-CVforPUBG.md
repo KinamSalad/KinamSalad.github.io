@@ -10,8 +10,11 @@ categories: CV
 Email : parkinam321@gmail.com, parkinam321@kaist.ac.kr
 
 ## 학력
-대학교 이름 : KAIST
-소재지 : 
+대학교 : KAIST
+
+소재지 : 대전광역시 유성구 어은동 대학로 291
+
+학부 :
 
 ## 기술
 c, java, python, R 기반 언어사용 경험(python 관련 경험 다수)
