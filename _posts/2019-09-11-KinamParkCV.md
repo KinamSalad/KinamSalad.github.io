@@ -1,5 +1,5 @@
 ---
-title: "KinamPark's CV"
+title: "CV for PUBG"
 date: 2019-09-11 15:11:00 -0400
 categories: CV
 ---
