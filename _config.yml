@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Kinam Park, Kingberly, KinamSalad"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist. I don't like *Salad* that much."
+  bio              : "Data Scientist.\n I don't like *Salad* that much."
   location         : "KAIST, Daejeon, Korea"
   email            : "parkinam321@kaist.ac.kr"
   links:
