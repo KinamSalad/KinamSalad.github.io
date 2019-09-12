@@ -58,9 +58,9 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 ## (수상)경력
 
-### 학과 Crowdsourcing 프로젝트 EVENTENCE
+### (Lecture Project) Crowdsourcing service EVENTENCE!
 
-개요 : 그동안 열린, 열릴 이벤트들에 대해 참가예정자, 참가자들이 한 sentence씩 이벤트를 한줄평을 남기고 이를 wordcloud로 보여주어 이벤트에 대한 개요를 
+그동안 열린, 열릴 이벤트들에 대해 참가예정자, 참가자들이 한 sentence씩 이벤트를 한줄평을 남기고 이를 wordcloud로 보여주어 이벤트에 대한 개요를 
 사용자에게 효과적으로 전달할 수 있게 보여주는 crowdsourcing기반 웹페이지. 좋아요 기능이나 프로필 기반 어떤 학년,전공의 사용자가 보여주는 등의 간접적 추천 기능도 구현하였다. Django기반 back-end구현과 front-end에서 Javascript를 이용한 사용자 interaction개발에 기여하였다.
 
 홈페이지 링크 : <a href="http://kinamsalad.pythonanywhere.com/" target="_blank">CrowdSourcing_Project_EVENTENCE!</a>
@@ -97,8 +97,15 @@ Title : A Placeness Mining Scheme to Infer Land Use and Estimate Its Evolving Ch
 
 Abstract : 서울 지하철 2호선 역세권(반경 200m)내의 축적된 Instagram data로부터 사회적활동(social activity)을 식별하고, 식별된 사회적 활동을 이용하여 역세권의 토지사용(landuse)을 추론(infer)하는 Place Mining Scheme을 구축하였다. 또한 연도별 분석을 통해  토지사용의 연도별 변화가 어떤 형태로 사회적 활동에서 탐지(detect)되는지 확인하였다. 
 
-Methodology : MS Congitive Service API를 통해 각 이미지에 대한 descriable sentence를 만들고 Word2Vec을 적용하여 context aware embedding을 하였다. 여기서 묶인 cluster들을 MTurk survey를 통해 사회적 활동으로 규정하고 MLPRegressor 적용하여 landuse를 추론하는 Scheme를 구현하였다. 이 scheme은 baseline보다 낮은 RMSE를 가졌다. 
+Methodology : MS Congitive Service API를 통해 각 이미지에 대한 descriable sentence를 만들고 Word2Vec을 적용하여 context-aware embedding을 하였다. 이후 Spectral clustering으로 묶인 cluster들을 MTurk survey를 통해 사회적 활동으로 규정하고 MLPRegressor 적용하여 landuse를 추론하는 Scheme를 구현하였다. 이 scheme은 baseline보다 낮은 RMSE를 가졌다. 
 
 Paper link : <a href="../../pdf_folder/2019ICDM.pdf" target="_blank">ICDM_2019_Placeness_Clustering.pdf</a>
 
-### current work(MS thesis)
+### Current work(MS thesis)
+
+Title : Correlation between LTE physical data and social media data for detecting social activity changes(가제)
+
+Abstract : 
+
+Methodology : 
+
