@@ -50,7 +50,7 @@ NLP(Word2Vec, tf-idf, LDA)
 
 Instagram posting들에 대한 자체 Web crawler 구현 및 WEB API 사용 경험
 
-MongoDB, mysql DB 사용경험 (학과 프로젝트, 연구실 IoT testbed)
+MongoDB, Mysql DB 사용경험 (학과 프로젝트, 연구실 IoT testbed)
 
 Javascript를 활용한 front-end 개발경험(학과 프로젝트, 연구실 IoT testbed)
 
@@ -60,7 +60,10 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 1. 학과 Crowdsourcing 프로젝트 EVENTENCE
 
-<a href="http://kinamsalad.pythonanywhere.com/" target="_blank">CrowdSourcing_Project_EVENTENCE!</a>
+개요 : 그동안 열린, 열릴 이벤트들에 대해 참가예정자, 참가자들이 한 sentence씩 이벤트를 한줄평을 남기고 이를 wordcloud로 보여주어 이벤트에 대한 개요를 
+사용자에게 효과적으로 전달할 수 있게 보여주는 crowdsourcing기반 웹페이지. 좋아요 기능이나 프로필 기반 어떤 학년,전공의 사용자가 보여주는 등의 간접적 추천 기능도 구현하였다. Django기반 back-end구현과 front-end에서 Javascript를 이용한 사용자 interaction개발에 기여.
+
+홈페이지 링크 : <a href="http://kinamsalad.pythonanywhere.com/" target="_blank">CrowdSourcing_Project_EVENTENCE!</a>
 
 2. CDSNLAB lapras-web IoT testbed
 
