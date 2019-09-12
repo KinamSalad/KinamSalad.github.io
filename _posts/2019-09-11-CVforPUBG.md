@@ -71,7 +71,7 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 홈페이지 링크 : <a href="http://lapras.kaist.ac.kr" target="_blank">lapras-web IoT testbed</a>
 
-### 2018한국정보과학회 학부생논문 지도(우수상)
+### 2018한국정보과학회(KCC) 학부생논문 지도(우수상)
 
 제목 : 도시 공간에서의 사회적 행위와 물리 센서 데이터 간의 상관관계 분석-북촌지역 사례연구
 
@@ -79,7 +79,7 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 논문링크 : <a href="../../pdf_folder/2018KCC.pdf" target="_blank">KCC_2018_Bukchon_corr_physical_social.pdf</a>
 
-### 2019한국정보과학외 학부생논문 지도(최우수상)
+### 2019한국정보과학회(KCC) 학부생논문 지도(최우수상)
 
 제목 : 서울시 지하철 2 호선 역세권의 토지피복도를 이용한 소셜 데이터의 통시적 분석
 
@@ -87,7 +87,7 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 논문링크 : <a href="../../pdf_folder/2019KCC.pdf" target="_blank">KCC_2019_metro2_corrdemographic_landuse.pdf</a>
 
-### ICDM2019 1저자 submit(marginal rejected. resvise하는 중)
+### ICDM2019 1st author submit(marginal rejected. under revision.)
 
 제목 : A Placeness Mining Scheme to Infer Land Use and Estimate Its Evolving Changes from Instagram Data
 
