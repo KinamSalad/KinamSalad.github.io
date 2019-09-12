@@ -103,7 +103,7 @@ Paper link : <a href="../../pdf_folder/2019ICDM.pdf" target="_blank">ICDM_2019_P
 
 Title : Correlation between LTE physical data and social media data for detecting social activity changes(가제)
 
-Abstract : 축적된 Social media(Instagram)로부터 각 location마다의 social activity를 추출하고 각 location의 시간변화(hour)에 따른 social activity의 변화와 LTE physical data와의 상호관계(correlation)을 찾아 
+Abstract : 축적된 Social media(Instagram)로부터 각 location마다의 social activity를 추출하고 각 location마다 시간변화(hour)에 따른 social activity와 LTE physical data와의 상호관계(correlation)을 찾아 Social-Physicla data fusion의 단초를 마련한다.
 
-Methodology : 
+Methodology : KT에서 받은 50x50m cell LTE 시간별 유동인구 data
 
