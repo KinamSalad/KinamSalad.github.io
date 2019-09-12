@@ -67,9 +67,13 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 2. CDSNLAB lapras-web IoT testbed
 
-<a href="http://lapras.kaist.ac.kr" target="_blank">lapras-web IoT testbed</a>
+연구실내 자체 IoT tsetbed lapras-web개발에 참여. lapras는 여러 IoT에서 받은 physical sensor data를 미들웨어에서 subcsribe하여, 각 physical sensor의 상태정보를 DB에 저장하고 web에 publish하는 IoT testbed이다. sensor data를 subscribe하는 Java기반 middleware 구현 및 저장된 sensor data를 DB에서 load하여 web에 visualize하는 업무에 참여.
+
+홈페이지 링크 : <a href="http://lapras.kaist.ac.kr" target="_blank">lapras-web IoT testbed</a>
 
 3. 한국정보과학회 학부생논문 지도(우수상)
+
+
 
 <a href="../../pdf_folder/2018KCC.pdf" target="_blank">KCC_2018_Bukchon_corr_physical_social.pdf</a>
 
