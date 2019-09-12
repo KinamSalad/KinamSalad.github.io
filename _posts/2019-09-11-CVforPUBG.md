@@ -97,7 +97,7 @@ Title : A Placeness Mining Scheme to Infer Land Use and Estimate Its Evolving Ch
 
 Abstract : 서울 지하철 2호선 역세권(반경 200m)내의 축적된 Instagram data로부터 사회적활동(social activity)을 식별하고, 식별된 사회적 활동을 이용하여 역세권의 토지사용(landuse)을 추론(infer)하는 Place Mining Scheme을 구축하였다. 또한 연도별 분석을 통해  토지사용의 연도별 변화가 어떤 형태로 사회적 활동에서 탐지(detect)되는지 확인하였다. 
 
-Methodology : MS Congitive Service API를 통해 각 이미지에 대한 descriable sentence를 만들고 Word2Vec을 적용하여 context aware embedding을 하였다. 여기서 묶인 cluster들을 MTurk survey를 통해 사회적 활동으로 규정하고 이를 이용하여 landuse를 추론하는 MLPRegressor를 구현하였다.
+Methodology : MS Congitive Service API를 통해 각 이미지에 대한 descriable sentence를 만들고 Word2Vec을 적용하여 context aware embedding을 하였다. 여기서 묶인 cluster들을 MTurk survey를 통해 사회적 활동으로 규정하고 MLPRegressor 적용하여 landuse를 추론하는 Scheme를 구현하였다. 이 scheme은 baseline보다 낮은 RMSE를 가졌다. 
 
 Paper link : <a href="../../pdf_folder/2019ICDM.pdf" target="_blank">ICDM_2019_Placeness_Clustering.pdf</a>
 
