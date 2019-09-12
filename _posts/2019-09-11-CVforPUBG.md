@@ -58,31 +58,29 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 ## 경력
 
-1. 학과 Crowdsourcing 프로젝트 EVENTENCE
+### 학과 Crowdsourcing 프로젝트 EVENTENCE
 
 개요 : 그동안 열린, 열릴 이벤트들에 대해 참가예정자, 참가자들이 한 sentence씩 이벤트를 한줄평을 남기고 이를 wordcloud로 보여주어 이벤트에 대한 개요를 
 사용자에게 효과적으로 전달할 수 있게 보여주는 crowdsourcing기반 웹페이지. 좋아요 기능이나 프로필 기반 어떤 학년,전공의 사용자가 보여주는 등의 간접적 추천 기능도 구현하였다. Django기반 back-end구현과 front-end에서 Javascript를 이용한 사용자 interaction개발에 기여.
 
 홈페이지 링크 : <a href="http://kinamsalad.pythonanywhere.com/" target="_blank">CrowdSourcing_Project_EVENTENCE!</a>
 
-2. CDSNLAB lapras-web IoT testbed
+### CDSNLAB lapras-web IoT testbed
 
 연구실내 자체 IoT tsetbed lapras-web개발에 참여. lapras는 여러 IoT에서 받은 physical sensor data를 미들웨어에서 subcsribe하여, 각 physical sensor의 상태정보를 DB에 저장하고 web에 publish하는 IoT testbed이다. sensor data를 subscribe하는 Java기반 middleware 구현 및 저장된 sensor data를 DB에서 load하여 web에 visualize하는 업무에 참여.
 
 홈페이지 링크 : <a href="http://lapras.kaist.ac.kr" target="_blank">lapras-web IoT testbed</a>
 
-3. 한국정보과학회 학부생논문 지도(우수상)
-
-
+### 한국정보과학회 학부생논문 지도(우수상)
 
 <a href="../../pdf_folder/2018KCC.pdf" target="_blank">KCC_2018_Bukchon_corr_physical_social.pdf</a>
 
-4. 한국정보과학외 학부생논문 지도(최우수상)
+### 한국정보과학외 학부생논문 지도(최우수상)
 
 <a href="../../pdf_folder/2019KCC.pdf" target="_blank">KCC_2019_metro2_corrdemographic_landuse.pdf</a>
 
-5. ICDM2019 1저자 submit(marginal rejected. resvise하는 중)
+### ICDM2019 1저자 submit(marginal rejected. resvise하는 중)
 
 <a href="../../pdf_folder/2019ICDM.pdf" target="_blank">ICDM_2019_Placeness_Clustering.pdf</a>
 
-6. current work(MS thesis)
+### current work(MS thesis)
