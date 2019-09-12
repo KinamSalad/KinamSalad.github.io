@@ -83,13 +83,15 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 제목 : 서울시 지하철 2 호선 역세권의 토지피복도를 이용한 소셜 데이터의 통시적 분석
 
-개요 : Social media(Instagram)로부터 추출된 demographic정보와 국토부 토시사용피복도(LULC map)의 건물사용용도와의 관계성을 regression analysis를 이용하여 발견하였다. Instagram은 transfer learning을 이용하여 7가지 category(coffee, dining, entertainment, etc)로 분류하였으며, 이 중 dining, coffee category로 분류된 이미지 내 demographic(age, gender, num of people)을 MS Face++ API를 이용하여 추출하여 독립변수로 규정하였다. 서울 지하철 2호선 역세권(반경 200m)내의 건물용도 비율에 대한 hierarchical clustering을 통해 각 역의 용도(business, residential, etc)를 규정하였고 그 비율을 종속변수로 규정하였다. 이 두 변수들의 regression analysis를 통해 각 지역의 demographic이 도시사용 용도와 관계성을 가짐을 보였다. 
+개요 : Social media(Instagram)로부터 추출된 demographic정보와 국토부 토시사용피복도(LULC map)의 건물사용용도와의 관계성을 regression analysis를 이용하여 발견하였다. Instagram은 transfer learning을 이용하여 7가지 category(coffee, dining, entertainment, etc)로 분류하였으며, 이 중 dining, coffee category로 분류된 이미지 내 demographic (age, gender, num of people)을 MS Face++ API를 이용하여 추출하여 독립변수로 규정하였다. 서울 지하철 2호선 역세권(반경 200m)내의 건물용도 비율에 대한 hierarchical clustering을 통해 각 역의 용도(business, residential, etc)를 규정하였고 그 비율을 종속변수로 규정하였다. 이 두 변수들의 regression analysis를 통해 각 지역의 demographic이 도시사용 용도와 관계성을 가짐을 보였다. 
 
 논문링크 : <a href="../../pdf_folder/2019KCC.pdf" target="_blank">KCC_2019_metro2_corrdemographic_landuse.pdf</a>
 
 ### ICDM2019 1저자 submit(marginal rejected. resvise하는 중)
 
-제목 : 
+제목 : A Placeness Mining Scheme to Infer Land Use and Estimate Its Evolving Changes from Instagram Data
+
+개요 : 
 
 논문링크 : <a href="../../pdf_folder/2019ICDM.pdf" target="_blank">ICDM_2019_Placeness_Clustering.pdf</a>
 
