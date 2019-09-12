@@ -10,7 +10,7 @@ categories: CV
 
 전화번호 : 010-7704-5824
 
-Email : parkinam321@gmail.com, parkinam321@kaist.ac.kr
+Email : parkinam321@gmail.com(parkinam321@kaist.ac.kr)
 
 ## 학력
 
@@ -56,7 +56,7 @@ Javascript를 활용한 front-end 개발경험(학과 프로젝트, 연구실 Io
 
 Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
-## 경력
+## (수상)경력
 
 ### 학과 Crowdsourcing 프로젝트 EVENTENCE
 
@@ -69,30 +69,36 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 연구실내 자체 IoT tsetbed lapras-web개발에 참여. lapras는 여러 IoT에서 받은 physical sensor data를 미들웨어에서 subcsribe하여, 각 physical sensor의 상태정보를 DB에 저장하고 web에 publish하는 IoT testbed이다. sensor data를 subscribe하는 Java기반 middleware 구현 및 저장된 sensor data를 DB에서 load하여 web에 visualize하는 업무에 참여하였다.
 
-홈페이지 링크 : <a href="http://lapras.kaist.ac.kr" target="_blank">lapras-web IoT testbed</a>
+Homepage link : <a href="http://lapras.kaist.ac.kr" target="_blank">lapras-web IoT testbed</a>
 
 ### 2018한국정보과학회(KCC) 학부생논문 지도(우수상)
 
-제목 : 도시 공간에서의 사회적 행위와 물리 센서 데이터 간의 상관관계 분석-북촌지역 사례연구
+Title : 도시 공간에서의 사회적 행위와 물리 센서 데이터 간의 상관관계 분석-북촌지역 사례연구
 
-개요 : 북촌 지역을 target area로 하여 그 지역에서 일어나는 사회적활동(social activity)과 북촌지역에 설치된 physical sensor data와의 상관관계를 파악하였다. 사회적 활동은 기사나 북촌관련 도시공학논문을 인용하여 list up하였고, physical sensor data로 서울열린데이터광장의 open api를 통해 크롤링한 지능형 CCTV의 10분당 유동인구 수를 사용하였다. 각 사회적활동이 일어난 시간대의 유동인구 데이터를 heuristic하게 분석하여 사회적활동과 physical sensor data간의 상관관계를 파악한 논문이다.
+Abstract : 북촌 지역을 target area로 하여 그 지역에서 일어나는 사회적활동(social activity)과 북촌지역에 설치된 physical sensor data와의 상관관계를 파악하였다. 
 
-논문링크 : <a href="../../pdf_folder/2018KCC.pdf" target="_blank">KCC_2018_Bukchon_corr_physical_social.pdf</a>
+Methodology : 사회적 활동은 기사나 북촌관련 도시공학논문을 인용하여 list up하였고, physical sensor data로 서울열린데이터광장의 open api를 통해 크롤링한 지능형 CCTV의 10분당 유동인구 수를 사용하였다. 각 사회적활동이 일어난 시간대의 유동인구 데이터를 heuristic하게 분석하여 사회적활동과 physical sensor data간의 상관관계를 파악한 논문이다.
+
+Paper link : <a href="../../pdf_folder/2018KCC.pdf" target="_blank">KCC_2018_Bukchon_corr_physical_social.pdf</a>
 
 ### 2019한국정보과학회(KCC) 학부생논문 지도(최우수상)
 
-제목 : 서울시 지하철 2 호선 역세권의 토지피복도를 이용한 소셜 데이터의 통시적 분석
+Title : 서울시 지하철 2 호선 역세권의 토지피복도를 이용한 소셜 데이터의 통시적 분석
 
-개요 : Social media(Instagram)로부터 추출된 demographic정보와 국토부 토시사용피복도(LULC map)의 건물사용용도와의 관계성을 regression analysis를 이용하여 발견하였다. Instagram은 transfer learning을 이용하여 7가지 category(coffee, dining, entertainment, etc)로 분류하였으며, 이 중 dining, coffee category로 분류된 이미지 내 demographic (age, gender, num of people)을 MS Face++ API를 이용하여 추출하여 독립변수로 규정하였다. 서울 지하철 2호선 역세권(반경 200m)내의 건물용도 비율에 대한 hierarchical clustering을 통해 각 역의 용도(business, residential, etc)를 규정하였고 그 비율을 종속변수로 규정하였다. 이 두 변수들의 regression analysis를 통해 각 지역의 demographic이 도시사용 용도와 관계성을 가짐을 보였다. 
+Abstract : Social media(Instagram)로부터 추출된 demographic정보와 국토부 토시사용피복도(LULC map)의 건물사용용도와의 관계성을 regression analysis를 이용하여 발견하였다. 
 
-논문링크 : <a href="../../pdf_folder/2019KCC.pdf" target="_blank">KCC_2019_metro2_corrdemographic_landuse.pdf</a>
+Methodology : Instagram은 transfer learning을 이용하여 7가지 category(coffee, dining, entertainment, etc)로 분류하였으며, 이 중 dining, coffee category로 분류된 이미지 내 demographic (age, gender, num of people)을 MS Face++ API를 이용하여 추출하여 독립변수로 규정하였다. 서울 지하철 2호선 역세권(반경 200m)내의 건물용도 비율에 대한 hierarchical clustering을 통해 각 역의 용도(business, residential, etc)를 규정하였고 그 비율을 종속변수로 규정하였다. 이 두 변수들의 regression analysis를 통해 각 지역의 demographic이 도시사용 용도와 관계성을 가짐을 보였다. 
 
-### ICDM2019 1st author submit(marginal rejected. under revision.)
+Paper link : <a href="../../pdf_folder/2019KCC.pdf" target="_blank">KCC_2019_metro2_corrdemographic_landuse.pdf</a>
 
-제목 : A Placeness Mining Scheme to Infer Land Use and Estimate Its Evolving Changes from Instagram Data
+### ICDM2019 1st author submit(Marginal rejected. Under revision.)
 
-개요 : 
+Title : A Placeness Mining Scheme to Infer Land Use and Estimate Its Evolving Changes from Instagram Data
 
-논문링크 : <a href="../../pdf_folder/2019ICDM.pdf" target="_blank">ICDM_2019_Placeness_Clustering.pdf</a>
+Abstract : 서울 지하철 2호선 역세권(반경 200m)내의 축적된 Instagram data로부터 사회적활동(social activity)을 식별하고, 식별된 사회적 활동을 이용하여 역세권의 토지사용(landuse)을 추론(infer)하는 Place Mining Scheme을 구축하였다. 또한 연도별 분석을 통해  토지사용의 연도별 변화가 어떤 형태로 사회적 활동에서 탐지(detect)되는지 확인하였다. 
+
+Methodology : MS Congitive Service API를 통해 각 이미지에 대한 descriable sentence를 만들고 Word2Vec을 적용하여 context aware embedding을 하였다. 여기서 묶인 cluster들을 MTurk survey를 통해 사회적 활동으로 규정하고 이를 이용하여 landuse를 추론하는 MLPRegressor를 구현하였다.
+
+Paper link : <a href="../../pdf_folder/2019ICDM.pdf" target="_blank">ICDM_2019_Placeness_Clustering.pdf</a>
 
 ### current work(MS thesis)
