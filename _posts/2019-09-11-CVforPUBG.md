@@ -108,6 +108,6 @@ Abstract : 축적된 Social media(Instagram)로부터 각 location마다의 soci
 Methodology : KT에서 받은 50x50m cell LTE 시간별 유동인구 data
 
 
-![Figure 1](https://KinamSalad.github.io/image_folder/LTE_hongik_image.png)
+![Figure 1](https://KinamSalad.github.io/image_folder/LTE_hongik_image.png){: width="400" height="300"}
 
-![Figure 2](https://KinamSalad.github.io/image_folder/INSTA_hongik_image.png)
+![Figure 2](https://KinamSalad.github.io/image_folder/INSTA_hongik_image.png){: width="400" height="300"}
