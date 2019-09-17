@@ -105,10 +105,13 @@ Title : Correlation between LTE physical data and social media data for detectin
 
 Abstract : 축적된 Social media(Instagram)로부터 각 location마다의 social activity를 추출하고 각 location마다 시간변화(hour)에 따른 social activity와 LTE physical data와의 상호관계(correlation)을 찾아 Social-Physicla data fusion의 단초를 마련한다.
 
-Methodology : KT에서 받은 50x50m cell LTE 시간별 유동인구 data
+Methodology : KT에서 받은 50x50m cell 시간별 유동인구 LTE data의 Week scale의 데이터의 cluster들과(Figure 1 참조) Instagram caption으로부터 LDA로 추출한 사회활동(social activity, Figure 2 참조)간의 공간적 상관관계(spatial correlation)를 발견하였다. 또한 LTE data의 시간대 분석을 통해 어느 시간대에 어떤 사회적 활동이 관련있는지 시간적 상관관계(temporal correlation)를 찾고 있다. 
 
 
 ![Figure 1](https://KinamSalad.github.io/image_folder/LTE_hongik_image.png){: width="300" height="225"}{: .center}
+
 Figure 1. Hirarchical Clutering for LTE data in Hongik University Area
+
 ![Figure 2](https://KinamSalad.github.io/image_folder/INSTA_hongik_image.png){: width="300" height="225"}{: .center}
+
 Figure 2. Clutering for Instagram activity data in Hongik University Area
