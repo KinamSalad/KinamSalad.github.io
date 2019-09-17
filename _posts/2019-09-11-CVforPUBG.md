@@ -10,7 +10,7 @@ categories: CV
 
 전화번호 : 010-7704-5824
 
-Email : parkinam321@gmail.com(parkinam321@kaist.ac.kr)
+E-mail : parkinam321@gmail.com(parkinam321@kaist.ac.kr)
 
 ## 학력
 
@@ -94,11 +94,11 @@ Figure 2. Clutering for Instagram activity data in Hongik University Area
 
 ### 2019한국정보과학회(KCC) 학부생논문 지도(최우수상)
 
-**Title** : 서울시 지하철 2 호선 역세권의 토지피복도를 이용한 소셜 데이터의 통시적 분석
+*Title* : 서울시 지하철 2 호선 역세권의 토지피복도를 이용한 소셜 데이터의 통시적 분석
 
-**Abstract** : 소셜미디어(Instagram)로부터 추출된 인구통계(demographic)정보와 국토부 토지사용피복도(LULC map)의 관계성을 regression analysis를 통해 발견하였다. 
+*Abstract* : 소셜미디어(Instagram)로부터 추출된 인구통계(demographic)정보와 국토부 토지사용피복도(LULC map)의 관계성을 regression analysis를 통해 발견하였다. 
 
-**Methodology** : Transfer learning을 통해 7가지 카테고리로 Instagram을  분류하였으며, 이 중 특정 카테고리로 분류된 이미지 내 인구통계(나이, 성별, 사람수)를 MS Face++ API를 이용하여 추출하여 독립변수로 두었다. 그리고 서울 지하철 2호선 역세권의 LULC 사용용도 비율에 대한 hierarchical clustering을 통해 각 지역의 사용용도를 도출하고 이들의 비율을 종속변수로 두었다. 두 변수간의 회귀분석을 통해 각 지역의 인구통계가 LULC와 관계성을 가짐을 보였다. 
+*Methodology* : Transfer learning을 통해 7가지 카테고리로 Instagram을  분류하였으며, 이 중 특정 카테고리로 분류된 이미지 내 인구통계(나이, 성별, 사람수)를 MS Face++ API를 이용하여 추출하여 독립변수로 두었다. 그리고 서울 지하철 2호선 역세권의 LULC 사용용도 비율에 대한 hierarchical clustering을 통해 각 지역의 사용용도를 도출하고 이들의 비율을 종속변수로 두었다. 두 변수간의 회귀분석을 통해 각 지역의 인구통계가 LULC와 관계성을 가짐을 보였다. 
 
 [Paper link](https://KinamSalad.github.io/pdf_folder/2019KCC.pdf)
 
