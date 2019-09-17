@@ -68,7 +68,7 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 ### Current work(MS thesis)
 
-**Title** : Correlation between LTE physical data and social media data for detecting social activity changes(가제)
+**Title** : Spatio-temporal analysis of LTE traffic data for detecting social activity changes(가제)
 
 **Abstract** : 축적된 Social media(Instagram)로부터 각 location마다의 social activity를 추출하고 각 location마다 시간변화(hour)에 따른 social activity와 LTE physical data와의 상호관계(correlation)을 찾아 Social-Physicla data fusion의 단초를 마련한다.
 
