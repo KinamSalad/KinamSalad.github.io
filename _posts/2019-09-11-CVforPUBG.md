@@ -32,7 +32,7 @@ GPA : 3.46
 
 전공 : 전산학과
 
-연구실 : CDSNLAB [Page link](http://cds.kaist.ac.kr/)
+연구실 : CDSNLAB([Page link](http://cds.kaist.ac.kr/))
 
 연구분야 : Data science, Urban computing, Machine learning
 
@@ -70,7 +70,7 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 **Title** : Spatio-temporal analysis of LTE traffic data for detecting social activity changes(가제)
 
-**Abstract** : 축적된 social media(Instagram)로부터 추출된 social activity와 LTE traffic data와의 시공간적 상호관계(spatio-temporal correlation)을 찾아 cyber-physical space의 단초를 마련한다.
+**Abstract** : 축적된 social media(Instagram)로부터 추출된 social activity와 LTE traffic data와의 시공간적 상호관계(spatio-temporal correlation)을 찾아 cyber-physical space service의 단초를 마련다.
 
 **Methodology** : KT에서 받은 50x50m cell 시간별 유동인구 LTE data의 Week scale의 데이터의 cluster들과(Figure 1 참조) Instagram caption으로부터 LDA로 추출한 사회활동(social activity, Figure 2 참조)간의 공간적 상관관계(spatial correlation)를 발견하였다. 또한 LTE data의 시간대 분석을 통해 어느 시간대에 어떤 사회적 활동이 관련있는지 시간적 상관관계(temporal correlation)를 찾는 과정에 있다. 
 
