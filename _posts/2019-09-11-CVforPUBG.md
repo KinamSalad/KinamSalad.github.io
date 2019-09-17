@@ -68,11 +68,11 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 ### Current work(MS thesis)
 
-**Title** : Spatio-temporal analysis of LTE traffic data for detecting social activity changes(가제)
+*Title* : Spatio-temporal analysis of LTE traffic data for detecting social activity changes(가제)
 
-**Abstract** : 축적된 social media(Instagram)로부터 추출된 social activity와 LTE traffic data와의 시공간적 상호관계(spatio-temporal correlation)을 찾아 cyber-physical space service의 단초를 마련다.
+*Abstract* : 축적된 social media(Instagram)로부터 추출된 social activity와 LTE traffic data와의 시공간적 상호관계(spatio-temporal correlation)을 찾아 cyber-physical space service의 단초를 마련다.
 
-**Methodology** : KT에서 받은 50x50m cell 시간별 유동인구 LTE data의 Week scale의 데이터의 cluster들과(Figure 1 참조) Instagram caption으로부터 LDA로 추출한 사회활동(social activity, Figure 2 참조)간의 공간적 상관관계(spatial correlation)를 발견하였다. 또한 LTE data의 시간대 분석을 통해 어느 시간대에 어떤 사회적 활동이 관련있는지 시간적 상관관계(temporal correlation)를 찾는 과정에 있다. 
+*Methodology* : KT에서 받은 50x50m cell 시간별 유동인구 LTE data의 Week scale의 데이터의 cluster들과(Figure 1 참조) Instagram caption으로부터 LDA로 추출한 사회활동(social activity, Figure 2 참조)간의 공간적 상관관계(spatial correlation)를 발견하였다. 또한 LTE data의 시간대 분석을 통해 어느 시간대에 어떤 사회적 활동이 관련있는지 시간적 상관관계(temporal correlation)를 찾는 과정에 있다. 
 
 ![Figure 1](https://KinamSalad.github.io/image_folder/LTE_hongik_image.png){: width="300" height="225"}{: .center}
 
@@ -84,11 +84,11 @@ Figure 2. Clutering for Instagram activity data in Hongik University Area
 
 ### 2018한국정보과학회(KCC) 학부생논문 지도(우수상)
 
-**Title** : 도시 공간에서의 사회적 행위와 물리 센서 데이터 간의 상관관계 분석-북촌지역 사례연구
+*Title* : 도시 공간에서의 사회적 행위와 물리 센서 데이터 간의 상관관계 분석-북촌지역 사례연구
 
-**Abstract** : 서울 북촌을 대상으로 그 지역에서 일어나는 사회활동(social activity)과 북촌지역에 설치된 물리 센서 데이터와의 상관관계를 파악하였다. 
+*Abstract* : 서울 북촌을 대상으로 그 지역에서 일어나는 사회활동(social activity)과 북촌지역에 설치된 물리 센서 데이터와의 상관관계를 파악하였다. 
 
-**Methodology** : 사회적 활동은 인터넷 기사나 북촌관련 도시공학논문을 인용하여 list up하였고, 물리센서데이터로 서울열린데이터광장의 open api를 통해 크롤링한 지능형 CCTV의 10분당 유동인구 수를 사용하였다. 각 사회적활동이 일어난 시간대의 유동인구 데이터를 heuristic하게 분석하여 사회적활동과 physical sensor data간의 상관관계를 파악한 논문이다.
+*Methodology* : 사회적 활동은 인터넷 기사나 북촌관련 도시공학논문을 인용하여 list up하였고, 물리센서데이터로 서울열린데이터광장의 open api를 통해 크롤링한 지능형 CCTV의 10분당 유동인구 수를 사용하였다. 각 사회적활동이 일어난 시간대의 유동인구 데이터를 heuristic하게 분석하여 사회적활동과 physical sensor data간의 상관관계를 파악한 논문이다.
 
 [Paper link](https://KinamSalad.github.io/pdf_folder/2018KCC.pdf)
 
