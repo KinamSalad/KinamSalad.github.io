@@ -20,7 +20,7 @@ Email : parkinam321@gmail.com(parkinam321@kaist.ac.kr)
 
 소재지 : 대전광역시 유성구 어은동 대학로 291
 
-전공 : 전기 및 전기공학과 전공, 전산학부 부전공(*전산학부 전공 38/42학점 수료. 42학점 부터 복수전공)
+전공 : 전기 및 전기공학과 전공, 전산학과 부전공(*전산학부 전공 38/42학점 수료. 42학점 부터 복수전공)
 
 GPA : 3.46
 
@@ -30,7 +30,7 @@ GPA : 3.46
 
 소재지 : 대전광역시 유성구 어은동 대학로 291
 
-전공 : 전산학부 
+전공 : 전산학
 
 연구실 : CDSNLAB (Homepage : <a href="http://cds.kaist.ac.kr/" target="_blank">CDSNLAB_homepage</a>)
 
@@ -88,6 +88,8 @@ Abstract : Social media(Instagram)로부터 추출된 demographic정보와 국�
 Methodology : Instagram은 transfer learning을 이용하여 7가지 category(coffee, dining, entertainment, etc)로 분류하였으며, 이 중 dining, coffee category로 분류된 이미지 내 demographic (age, gender, num of people)을 MS Face++ API를 이용하여 추출하여 독립변수로 규정하였다. 서울 지하철 2호선 역세권(반경 200m)내의 건물용도 비율에 대한 hierarchical clustering을 통해 각 역의 용도(business, residential, etc)를 규정하였고 그 비율을 종속변수로 규정하였다. 이 두 변수들의 regression analysis를 통해 각 지역의 demographic이 도시사용 용도와 관계성을 가짐을 보였다. 
 
 Paper link : <a href="../../pdf_folder/2019KCC.pdf" target="_blank">KCC_2019_metro2_corrdemographic_landuse.pdf</a>
+
+[Paper link](https://KinamSalad.github.io/pdf_folder/2019KCC.pdf)
 
 ### ICDM2019 1st author submit(Marginal rejected. Under revision.)
 
