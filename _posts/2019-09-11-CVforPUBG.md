@@ -20,7 +20,7 @@ Email : parkinam321@gmail.com(parkinam321@kaist.ac.kr)
 
 소재지 : 대전광역시 유성구 어은동 대학로 291
 
-전공 : 전기 및 전기공학과 전공, 전산학부 부전공(특이사항 : 전산학부 전공 38/42학점 수료. 42학점 부터 복수전공)
+전공 : 전기 및 전기공학과 전공, 전산학부 부전공(*전산학부 전공 38/42학점 수료. 42학점 부터 복수전공)
 
 GPA : 3.46
 
@@ -108,6 +108,7 @@ Abstract : 축적된 Social media(Instagram)로부터 각 location마다의 soci
 Methodology : KT에서 받은 50x50m cell LTE 시간별 유동인구 data
 
 
-![Figure 1](https://KinamSalad.github.io/image_folder/LTE_hongik_image.png){: width="300" height="225"}{: .left}
-
-![Figure 2](https://KinamSalad.github.io/image_folder/INSTA_hongik_image.png){: width="300" height="225"}{: .right}
+![Figure 1](https://KinamSalad.github.io/image_folder/LTE_hongik_image.png){: width="300" height="225"}{: .center}
+Figure 1. Hirarchical Clutering for LTE data in Hongik University Area
+![Figure 2](https://KinamSalad.github.io/image_folder/INSTA_hongik_image.png){: width="300" height="225"}{: .center}
+Figure 2. Clutering for Instagram activity data in Hongik University Area
