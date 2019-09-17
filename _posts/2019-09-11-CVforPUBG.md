@@ -70,7 +70,7 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 **Title** : Spatio-temporal analysis of LTE traffic data for detecting social activity changes(가제)
 
-**Abstract** : 축적된 Social media(Instagram)로부터 각 location마다의 social activity를 추출하고 각 location마다 시간변화(hour)에 따른 social activity와 LTE physical data와의 상호관계(correlation)을 찾아 Social-Physicla data fusion의 단초를 마련한다.
+**Abstract** : 축적된 social media(Instagram)로부터 추출된 social activity와 LTE traffic data와의 시공간적 상호관계(spatio-temporal correlation)을 찾아 cyber-physical space의 단초를 마련한다.
 
 **Methodology** : KT에서 받은 50x50m cell 시간별 유동인구 LTE data의 Week scale의 데이터의 cluster들과(Figure 1 참조) Instagram caption으로부터 LDA로 추출한 사회활동(social activity, Figure 2 참조)간의 공간적 상관관계(spatial correlation)를 발견하였다. 또한 LTE data의 시간대 분석을 통해 어느 시간대에 어떤 사회적 활동이 관련있는지 시간적 상관관계(temporal correlation)를 찾는 과정에 있다. 
 
@@ -98,7 +98,7 @@ Figure 2. Clutering for Instagram activity data in Hongik University Area
 
 **Abstract*** : 소셜미디어(Instagram)로부터 추출된 인구통계(demographic)정보와 국토부 토지사용피복도(LULC map)의 관계성을 regression analysis를 통해 발견하였다. 
 
-**Methodology** : Transfer learning을 통해 7가지 카테고리로 Instagram을  분류하였으며, 이 중 특정 카테고리로 분류된 이미지 내 인구통계(나이, 성별, 사람수)를 MS Face++ API를 이용하여 추출하여 독립변수로 두었다. 그리고 서울 지하철 2호선 역세권의 LULC 사용용도 비율에 대한 hierarchical clustering을 통해 각 역의 용도(business, residential, etc)를 도출하고 이들의 비율을 종속변수로 두었다. 두 변수간의 regression analysis를 통해 각 지역의 인구통계가 LULC와 관계성을 가짐을 보였다. 
+**Methodology** : Transfer learning을 통해 7가지 카테고리로 Instagram을  분류하였으며, 이 중 특정 카테고리로 분류된 이미지 내 인구통계(나이, 성별, 사람수)를 MS Face++ API를 이용하여 추출하여 독립변수로 두었다. 그리고 서울 지하철 2호선 역세권의 LULC 사용용도 비율에 대한 hierarchical clustering을 통해 각 지역의 사용용도를 도출하고 이들의 비율을 종속변수로 두었다. 두 변수간의 회귀분석을 통해 각 지역의 인구통계가 LULC와 관계성을 가짐을 보였다. 
 
 [Paper link](https://KinamSalad.github.io/pdf_folder/2019KCC.pdf)
 
