@@ -109,5 +109,5 @@ Methodology : KT에서 받은 50x50m cell LTE 시간별 유동인구 data
 
 ![image_1][../../image_folder/LTE_hongik_image.png]
 
-
+<img data-action="zoom" src='../../image_folder/LTE_hongik_image.png' alt='absolute'>
 
