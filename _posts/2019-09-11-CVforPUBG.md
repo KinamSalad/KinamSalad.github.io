@@ -58,11 +58,11 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 ### ICDM2019 1st author submission(Marginal rejected, under revision)
 
-**Title** : A Placeness Mining Scheme to Infer Land Use and Estimate Its Evolving Changes from Instagram Data
+*Title* : A Placeness Mining Scheme to Infer Land Use and Estimate Its Evolving Changes from Instagram Data
 
-**Abstract** : 서울 지하철 2호선 역세권 내의 축적된 Instagram data로부터 사회활동(social activity)을 식별하고, 식별된 사회적 활동을 이용하여 역세권의 토지사용(landuse)을 추론(inference)하는 Place Mining Scheme을 구축하였다. 또한 연도별 분석을 통해  토지사용의 연도별 변화가 어떤 형태로 사회적 활동에서 탐지(detect)되는지 확인하였다. 
+*Abstract* : 서울 지하철 2호선 역세권 내의 축적된 Instagram data로부터 사회활동(social activity)을 식별하고, 식별된 사회적 활동을 이용하여 역세권의 토지사용(landuse)을 추론(inference)하는 Place Mining Scheme을 구축하였다. 또한 연도별 분석을 통해  토지사용의 연도별 변화가 어떤 형태로 사회적 활동에서 탐지(detect)되는지 확인하였다. 
 
-**Methodology** : MS Congitive Service API를 통해 각 이미지에 대한 설명문장을 만들고 Word2Vec을 적용하여 비슷한 context를 지닌 단어끼리 묶이도록 임베딩 하였고 이를 사회활동으로 규정하였다. 이후 Spectral clustering을 통해 묶인 사회활동들을 MTurk survey를 통해 명확한 사회활동으로 규정하고 이에 MLPRegressor를 적용하여 landuse를 추론하는 scheme를 구현하였다. 이 scheme은 baseline보다 낮은 RMSE를 가진다.
+*Methodology* : MS Congitive Service API를 통해 각 이미지에 대한 설명문장을 만들고 Word2Vec을 적용하여 비슷한 context를 지닌 단어끼리 묶이도록 임베딩 하였고 이를 사회활동으로 규정하였다. 이후 Spectral clustering을 통해 묶인 사회활동들을 MTurk survey를 통해 명확한 사회활동으로 규정하고 이에 MLPRegressor를 적용하여 landuse를 추론하는 scheme를 구현하였다. 이 scheme은 baseline보다 낮은 RMSE를 가진다.
 
 [Paper link](https://KinamSalad.github.io/pdf_folder/2019ICDM.pdf)
 
