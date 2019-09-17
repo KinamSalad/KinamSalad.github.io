@@ -56,23 +56,23 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 ## (수상)경력
 
-### ICDM2019 1st author submission.2019.(Marginal rejected, under revision.)
+### ICDM2019 1st author submission(Marginal rejected, under revision)
 
 **Title** : A Placeness Mining Scheme to Infer Land Use and Estimate Its Evolving Changes from Instagram Data
 
 **Abstract** : 서울 지하철 2호선 역세권 내의 축적된 Instagram data로부터 사회활동(social activity)을 식별하고, 식별된 사회적 활동을 이용하여 역세권의 토지사용(landuse)을 추론(inference)하는 Place Mining Scheme을 구축하였다. 또한 연도별 분석을 통해  토지사용의 연도별 변화가 어떤 형태로 사회적 활동에서 탐지(detect)되는지 확인하였다. 
 
-**Methodology** : MS Congitive Service API를 통해 각 이미지에 대한 설명문장을 만들고 Word2Vec을 적용하여 비슷한 context를 지닌 단어끼리 묶이도록 임베딩 하였고 이를 사회활동으로 규정하였다. 이후 Spectral clustering을 통해 묶인 사회활동들을 MTurk survey를 통해 사회적 활동으로 규정하고 이에 MLPRegressor를 적용하여 landuse를 추론하는 scheme를 구현하였다. 이 scheme은 baseline보다 낮은 RMSE를 가진다.
+**Methodology** : MS Congitive Service API를 통해 각 이미지에 대한 설명문장을 만들고 Word2Vec을 적용하여 비슷한 context를 지닌 단어끼리 묶이도록 임베딩 하였고 이를 사회활동으로 규정하였다. 이후 Spectral clustering을 통해 묶인 사회활동들을 MTurk survey를 통해 명확한 사회활동으로 규정하고 이에 MLPRegressor를 적용하여 landuse를 추론하는 scheme를 구현하였다. 이 scheme은 baseline보다 낮은 RMSE를 가진다.
 
 [Paper link](https://KinamSalad.github.io/pdf_folder/2019ICDM.pdf)
 
-### Current work(MS thesis).2019.
+### Current work(MS thesis)
 
 **Title** : Correlation between LTE physical data and social media data for detecting social activity changes(가제)
 
 **Abstract** : 축적된 Social media(Instagram)로부터 각 location마다의 social activity를 추출하고 각 location마다 시간변화(hour)에 따른 social activity와 LTE physical data와의 상호관계(correlation)을 찾아 Social-Physicla data fusion의 단초를 마련한다.
 
-**Methodology** : KT에서 받은 50x50m cell 시간별 유동인구 LTE data의 Week scale의 데이터의 cluster들과(Figure 1 참조) Instagram caption으로부터 LDA로 추출한 사회활동(social activity, Figure 2 참조)간의 공간적 상관관계(spatial correlation)를 발견하였다. 또한 LTE data의 시간대 분석을 통해 어느 시간대에 어떤 사회적 활동이 관련있는지 시간적 상관관계(temporal correlation)를 찾고 있다. 
+**Methodology** : KT에서 받은 50x50m cell 시간별 유동인구 LTE data의 Week scale의 데이터의 cluster들과(Figure 1 참조) Instagram caption으로부터 LDA로 추출한 사회활동(social activity, Figure 2 참조)간의 공간적 상관관계(spatial correlation)를 발견하였다. 또한 LTE data의 시간대 분석을 통해 어느 시간대에 어떤 사회적 활동이 관련있는지 시간적 상관관계(temporal correlation)를 찾는 과정에 있다. 
 
 ![Figure 1](https://KinamSalad.github.io/image_folder/LTE_hongik_image.png){: width="300" height="225"}{: .center}
 
@@ -105,8 +105,7 @@ Figure 2. Clutering for Instagram activity data in Hongik University Area
 
 ### (Lecture Project) Crowdsourcing service EVENTENCE!
 
-그동안 열린, 열릴 이벤트들에 대해 참가예정자, 참가자들이 한 문장씩 이벤트를 한줄평을 남기고 이를 wordcloud로 보여주어 이벤트에 대한 개요를 
-사용자에게 효과적으로 전달할 수 있게 보여주는 crowdsourcing기반 웹페이지이다. 좋아요 기능이나 프로필 기반 어떤 학년,전공의 사용자가 관심있는지 등의 간접적 추천 기능또한 있다. Django기반 back-end구현과 front-end에서 Javascript를 이용한 사용자 interaction개발에 기여하였다.
+그동안 열린, 열릴 이벤트들에 대해 참가예정자, 참가자들이 한 문장씩 이벤트를 한줄평을 남기고 이를 wordcloud로 보여주어 이벤트에 대한 개요를 사용자에게 효과적으로 전달할 수 있게 보여주는 crowdsourcing기반 웹페이지이다. 좋아요 기능이나 프로필 기반 어떤 학년,전공의 사용자가 관심있는지 등의 간접적 추천 기능또한 있다. Django기반 back-end구현과 front-end에서 Javascript를 이용한 사용자 interaction개발에 기여하였다.
 
 [Page link](http://kinamsalad.pythonanywhere.com/)
 
