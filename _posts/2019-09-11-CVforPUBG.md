@@ -34,7 +34,7 @@ GPA : 3.46
 
 연구실 : CDSNLAB [Page link](http://cds.kaist.ac.kr/)
 
-연구분야 : Data science, Urban computing, Machine leaning
+연구분야 : Data science, Urban computing, Machine learning
 
 ## 기술
 
@@ -96,7 +96,7 @@ Figure 2. Clutering for Instagram activity data in Hongik University Area
 
 **Title** : 서울시 지하철 2 호선 역세권의 토지피복도를 이용한 소셜 데이터의 통시적 분석
 
-**Abstract*** : 소셜미디어(Instagram)로부터 추출된 인구통계(demographic)정보와 국토부 토지사용피복도(LULC map)의 관계성을 regression analysis를 통해 발견하였다. 
+**Abstract** : 소셜미디어(Instagram)로부터 추출된 인구통계(demographic)정보와 국토부 토지사용피복도(LULC map)의 관계성을 regression analysis를 통해 발견하였다. 
 
 **Methodology** : Transfer learning을 통해 7가지 카테고리로 Instagram을  분류하였으며, 이 중 특정 카테고리로 분류된 이미지 내 인구통계(나이, 성별, 사람수)를 MS Face++ API를 이용하여 추출하여 독립변수로 두었다. 그리고 서울 지하철 2호선 역세권의 LULC 사용용도 비율에 대한 hierarchical clustering을 통해 각 지역의 사용용도를 도출하고 이들의 비율을 종속변수로 두었다. 두 변수간의 회귀분석을 통해 각 지역의 인구통계가 LULC와 관계성을 가짐을 보였다. 
 
@@ -111,6 +111,6 @@ Figure 2. Clutering for Instagram activity data in Hongik University Area
 
 ### CDSNLAB 'lapras' IoT testbed
 
-연구실내 자체 IoT testbed인 lapras-web개발에 참여하였다. lapras는 여러 IoT센서에서 받은 데이터를 미들웨어에서 받아(subscribe), 각 상태정보를 데이터베이스에 저장하고 웹에 배포(publish)하는 IoT testbed이다. 센서데이터를 subscribe하는 Java기반 미들웨어 구현과 저장된 센서 데이터를 데이터베이스에서 로드하여 웨에 시각화하는 업무에 기여하였다.
+연구실 내 자체 IoT testbed인 lapras-web개발에 참여하였다. lapras는 여러 IoT센서에서 받은 데이터를 미들웨어에서 받아(subscribe), 각 상태정보를 데이터베이스에 저장하고 웹에 배포(publish)하는 IoT testbed이다. 센서데이터를 subscribe하는 Java기반 미들웨어 구현과 저장된 센서 데이터를 데이터베이스에서 로드하여 웨에 시각화하는 업무에 기여하였다.
 
 [Page link](http://lapras.kaist.ac.kr)
