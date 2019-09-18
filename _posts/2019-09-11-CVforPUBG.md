@@ -14,7 +14,7 @@ E-mail : parkinam321@gmail.com(parkinam321@kaist.ac.kr)
 
 ## 학력
 
-### 학부
+### 학과정
 
 학교 : KAIST
 
