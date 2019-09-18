@@ -79,7 +79,7 @@ Django 기반 back-end 개발경험
 <img src="https://KinamSalad.github.io/image_folder/LTE_hongik_image.png" width="200">
 ###### Figure 1. Hirarchical Clutering for LTE data in Hongik University Area
 
-![Figure 2](https://KinamSalad.github.io/image_folder/INSTA_hongik_image.png){: width="300" height="225"}{: .center}
+<img src="https://KinamSalad.github.io/image_folder/INSTA_hongik_image.png" width="200">
 ###### Figure 2. Clutering for Instagram activity data in Hongik University Area
 
 ### 2018한국정보과학회(KCC) 학부생논문 지도(우수상)
