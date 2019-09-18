@@ -38,21 +38,23 @@ GPA : 3.46/4.3
 
 ## 기술
 
-C, Java, Python, R 기반 언어사용 경험(python 관련 경험 다수)
+C, Java, Python, R 기반 언어 사용(Python, R 관련 경험 다수)
 
-Datascience(python, jupyter notebook 기반 PCA, TSNE, Regression, Correlation, Clustering, Feature Engineering)
+Feature Engineering
 
-pytorch기반 MachineLearning 기술(CNN, GCGAN, Masked R-CNN 구현 및 적용)
+Python, Jupyter notebook 기반 분석 및 시각화.
 
-NLP(Word2Vec, tf-idf, LDA)
+NLP(Word embedding, Topic modeling)
 
-Instagram posting들에 대한 자체 Web crawler 구현 및 WEB API 사용 경험
+Pytorch기반 Deeplearning(CNN, GCGAN, Masked R-CNN)
 
-MongoDB, Mysql DB 사용경험 (학과 프로젝트, 연구실 IoT testbed)
+Instagram web crawler 구현경험
 
-Javascript를 활용한 front-end 개발경험(학과 프로젝트, 연구실 IoT testbed)
+MongoDB, Mysql 사용경험
 
-Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
+Javascript를 활용한 front-end 개발경험
+
+Django 기반 back-end 개발경험
 
 ## (수상)경력
 
@@ -72,7 +74,7 @@ Django 기반 back-end 개발경험 (학과 프로젝트, 연구실 IoT testbed)
 
 *Abstract* : 축적된 social media(Instagram)로부터 추출된 social activity와 LTE traffic data와의 시공간적 상호관계(spatio-temporal correlation)을 찾아 cyber-physical space service의 단초를 마련다.
 
-*Methodology* : KT에서 받은 50x50m cell 시간별 유동인구 LTE data의 Week scale의 데이터의 cluster들과(Figure 1 참조) Instagram caption으로부터 LDA로 추출한 사회활동(social activity, Figure 2 참조)간의 공간적 상관관계(spatial correlation)를 발견하였다. 또한 LTE data의 시간대 분석을 통해 어느 시간대에 어떤 사회적 활동이 관련있는지 시간적 상관관계(temporal correlation)를 찾는 과정에 있다. 
+*Methodology* : KT에서 받은 50x50m cell 시간별 유동인구 LTE data의 Week scale의 데이터의 cluster들과(Figure 1 참조) Instagram caption으로부터 LDA로 추출한 사회활동(social activity, Figure 2 참조)간의 공간적 상관관계(spatial correlation)를 발견하였다. 또한 LTE data의 시간대의 이상탐지(anomaly detection)을 통해 어느 시간대에 어떤 사회적 활동이 관련있는지 시간적 상관관계(temporal correlation)를 찾는 과정에 있다. 
 
 ![Figure 1](https://KinamSalad.github.io/image_folder/LTE_hongik_image.png){: width="300" height="225"}{: .center}
 
@@ -114,3 +116,7 @@ Figure 2. Clutering for Instagram activity data in Hongik University Area
 연구실 내 자체 IoT testbed인 lapras-web개발에 참여하였다. lapras는 여러 IoT센서에서 받은 데이터를 미들웨어에서 받아(subscribe), 각 상태정보를 데이터베이스에 저장하고 웹에 배포(publish)하는 IoT testbed이다. 센서데이터를 subscribe하는 Java기반 미들웨어 구현과 저장된 센서 데이터를 데이터베이스에서 로드하여 웨에 시각화하는 업무에 기여하였다.
 
 [Page link](http://lapras.kaist.ac.kr)
+
+### 특이사항 
+
+PUBG PC버전(스팀) 플레이 100시간이상
