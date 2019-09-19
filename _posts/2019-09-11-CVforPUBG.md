@@ -118,6 +118,6 @@ Django 기반 back-end 개발경험
 
 [Page link](http://lapras.kaist.ac.kr)
 
-### 특이사항 
+## 특이사항 
 
 PUBG PC버전(스팀) 플레이 100시간이상
