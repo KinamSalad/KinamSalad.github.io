@@ -38,7 +38,7 @@ C, Java, Python, R 기반 언어 사용(Python, R 관련 경험 다수)
 
 Feature Engineering
 
-Python, Jupyter notebook 기반 분석 및 시각화.
+Python, Jupyter notebook 기반 데이터분석 및 시각화.
 
 NLP(Word embedding, Topic modeling)
 
