@@ -70,16 +70,16 @@ Django 기반 back-end 개발경험
 
 *Abstract* : 축적된 social media(Instagram)로부터 추출된 social activity와 LTE traffic data와의 시공간적 상호관계(spatio-temporal correlation)을 찾아 cyber-physical space service의 단초를 마련다.
 
-*Methodology* : KT에서 받은 50x50m cell 시간별 유동인구 LTE data의 Week scale의 데이터의 cluster들과(Figure 1 참조) Instagram caption으로부터 LDA로 추출한 사회활동(social activity, Figure 2 참조)간의 공간적 상관관계(spatial correlation)를 발견하였다. 또한 LTE data의 시간대의 이상탐지(anomaly detection)을 통해 어느 시간대에 어떤 사회적 활동이 관련있는지 시간적 상관관계(temporal correlation)를 찾는 과정에 있다. 
+*Methodology* : KT에서 받은 50x50m cell 시간별 유동인구 LTE data의 Week scale의 데이터의 cluster들과 Instagram caption으로부터 LDA로 추출한 사회활동(Figure 1)간의 공간적 상관관계(spatial correlation)를 발견하였다. 또한 LTE data의 시간대의 이상탐지(anomaly detection, Figure 2)을 통해 어느 시간대에 어떤 사회적 활동이 관련있는지 시간적 상관관계(temporal correlation)를 찾는 과정에 있다. 
 
-<center><img src="https://KinamSalad.github.io/image_folder/Hongik_LTE_INSTA.png" width="400"></center>
+<img src="https://KinamSalad.github.io/image_folder/Hongik_LTE_INSTA.png" width="400">
 
-###### <center>Figure 1. Hirarchical Clutering for LTE data in Hongik University Area</center>
+###### Figure 1. Clutering for LTE & Instagram data in Hongik University Area
 
 
-<center><img src="https://KinamSalad.github.io/image_folder/anomaly_detection.png" width="400"></center>
+<img src="https://KinamSalad.github.io/image_folder/anomaly_detection.png" width="400">
 
-###### <center>Figure 2. Clutering for Instagram activity data in Hongik University Area</center>
+###### Figure 2. Anomaly detection in physical sensor for temporal analysis
 
 ### 2018한국정보과학회(KCC) 학부생논문 지도(우수상)
 
