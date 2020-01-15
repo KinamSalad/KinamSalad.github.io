@@ -1,5 +1,5 @@
 ---
-title: "CV for PUBG"
+title: "prototype-CV"
 date: 2019-09-11 15:11:00 -0400
 categories: CV
 ---
