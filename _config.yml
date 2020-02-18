@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kinam Park, Kingberly, KinamSalad"
+  name             : "Kinam Park, KinamSalad"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist.\n I don't like *Salad* that much."
+  bio              : "I don't like *Salad* that much."
   location         : "KAIST, Daejeon, Korea"
-  email            : "parkinam321@kaist.ac.kr"
+  email            : "kinamsalad"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
